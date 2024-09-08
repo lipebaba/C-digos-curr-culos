@@ -1,0 +1,27 @@
+body {
+    color:white;
+    background-color: black;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border: 5px solid palevioletred;
+}
+
+.center {
+    text-align: center;
+
+}
+
+h1 {
+    color:white;
+}
+
+h2{
+    color: palevioletred;
+}
+
+h3{
+    color:palevioletred;
+}
